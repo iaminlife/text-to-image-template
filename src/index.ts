@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "Whale+Breach+Moment,+Lenticular+Sunset,+Recollection,+broken+patterns,+Fogged+Film,+soft+bokeh",
+      prompt: "bikini+girl,+Beach+Moment,+Sunset,+realistic,+Film,+soft+bokeh",
     };
 
     const response = await env.AI.run(
